@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8897934029",
+    "project_id": "aasra-54b35",
+    "storage_bucket": "aasra-54b35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8897934029:android:5e822c2dd843aeee9eef84",
+        "android_client_info": {
+          "package_name": "com.example.aasra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8897934029-q5o5ac5121l6sidtjpgkrefs6r5i8ccf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS7n2lSCDoduqcN8UZXl0p8zmrT5ibizw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8897934029-q5o5ac5121l6sidtjpgkrefs6r5i8ccf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aasra</string>
+    <string name="home_title">Aasra</string>
+    <string name="find_shelter">Find Shelter</string>
+    <string name="request_rescue">Request Rescue</string>
+    <string name="mark_safe">Mark I Am Safe</string>
+    <string name="authority_dashboard">Authority Dashboard</string>
+    <string name="shelter_full">Shelter Full</string>
+    <string name="shelter_available">Space Available</string>
+    <string name="data_stale">Data may be outdated</string>
+</resources>
