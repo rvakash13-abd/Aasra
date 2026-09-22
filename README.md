@@ -255,7 +255,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <a href="https://github.com/rvakash13-abd/Aasra">
 <img src="https://img.shields.io/badge/GITHUB-0D3B66?style=for-the-badge&logo=github&logoColor=4FC3F7"/>
 </a>
-<a href="mailto:r.v.akash13@gmail.com">
+<a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-1580E4?style=for-the-badge&logo=gmail&logoColor=E8F4FF"/>
 </a>
 
