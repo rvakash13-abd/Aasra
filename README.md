@@ -1,11 +1,12 @@
 <div align="center">
 
-# 🌊 AASRA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A1F3D,25:0D3B66,60:1580E4,100:4FC3F7&text=AASRA&fontSize=68&fontColor=E8F4FF&fontAlignY=38&animation=fadeIn&desc=Flood%20Relief%20Navigation%20%26%20Shelter%20Occupancy%20Platform&descAlignY=60&descColor=BEE3FF&descSize=17"/>
 
-### Aasra Milega, Suraksha Milega
-**Flood Relief Navigation & Shelter Occupancy Platform**
+</div>
 
-*Real-time shelter & occupancy tracking · Offline-first safe navigation · Multilingual + voice accessible*
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&lines=AASRA+MILEGA%2C+SURAKSHA+MILEGA;REAL-TIME+SHELTER+%26+OCCUPANCY+TRACKING;OFFLINE-FIRST+SAFE+NAVIGATION;MULTILINGUAL+%2B+VOICE+ACCESSIBLE"/>
 
 </div>
 
@@ -33,20 +34,22 @@
 <div align="center">
 
 ```text
-  +-----------------------------+
-  |   [!] FLOOD ALERT            |
-  |   +-----------------+       |
-  |   |  Shelter: A4    |       |
-  |   |  Occ: 62/100    |       |
-  |   |  Food: OK       |       |
-  |   +-----------------+       |
-  |   [ SAFE ROUTE >  ]         |
-  |   [ I AM SAFE (v) ]         |
-  |   [ SOS / SMS     ]         |
-  +-----------------------------+
-        AASRA  -  24x7
-   Aasra Milega, Suraksha Milega
+        ┌───────────────────────┐
+        │      ⚠ FLOOD ALERT    │
+        │   ┌───────────────┐   │   █████╗  █████╗ ███████╗██████╗  █████╗
+        │   │  Shelter: A4  │   │  ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗
+        │   │  Occ: 62/100  │   │  ███████║███████║███████╗██████╔╝███████║
+        │   │  Food: ✓      │   │  ██╔══██║██╔══██║╚════██║██╔══██╗██╔══██║
+        │   └───────────────┘   │  ██║  ██║██║  ██║███████║██║  ██║██║  ██║
+        │   [ SAFE ROUTE ▶ ]    │   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+        │   [ I AM SAFE ✓ ]     │
+        │   [ SOS / SMS ]       │      A A S R A
+        └───────────────────────┘   Aasra Milega, Suraksha Milega
+             AASRA  •  24×7
 ```
+
+</div>
+
 
 </div>
 
